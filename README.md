@@ -1,7 +1,7 @@
 # ContactAppWithRoom
 In this app user can add, delete, update, and see all the contacts saved in the room database.  
 
-Technology is used: 
+Technologies are used: 
 1. Kotlin.
 2. Jetpack Compose.
 3. Navigation component.
